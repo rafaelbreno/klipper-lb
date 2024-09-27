@@ -18,7 +18,7 @@ ifndef TARGET_PLATFORMS
 	endif
 endif
 
-ORG ?= rancher
+ORG ?= rafiusky
 TAG ?= ${GITHUB_ACTION_TAG}
 BUILDDATE ?= $(date +%Y%m%d)
 
